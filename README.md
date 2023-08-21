@@ -18,7 +18,7 @@ O objetivo principal deste repositório é fornecer um exemplo prático de como 
 ## Como Usar
 
 1. Clone ou faça o download do repositório para sua máquina local.
-2. Execute o script principal `main.py` em um ambiente Python.
+2. Execute o script principal `pokemon.py` em um ambiente Python.
 3. Siga as instruções no terminal para escolher personagens e ataques.
 4. Observe a batalha se desenrolar e analise os resultados.
 5. Explore o código-fonte para entender como os conceitos de orientação a objetos foram aplicados.
